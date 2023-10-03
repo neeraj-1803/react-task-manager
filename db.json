@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "Gym",
-      "day": "30th Jan 2021 07:00am",
+      "text": "Learn React",
+      "day": "03rd Oct 11:30am",
       "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "Second Gym",
-      "day": "30th Jan 2021 08:00am",
-      "reminder": true,
-      "id": 5
+      "id": 1
     }
   ]
 }
